@@ -1,0 +1,43 @@
+body {
+	background-color: #f1f1f1;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	text-align: center;
+	margin-top: 50px;
+}
+
+h1 {
+	font-size: 48px;
+	color: #333;
+}
+
+p {
+	font-size: 24px;
+	color: #777;
+	margin-bottom: 50px;
+}
+
+#countdown {
+	font-size: 36px;
+	color: #333;
+	margin-bottom: 50px;
+}
+
+input[type=email] {
+	padding: 10px;
+	border: none;
+	border-radius: 3px;
+	width: 300px;
+	margin-right: 10px;
+}
+
+button[type=submit] {
+	padding: 10px 20px;
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
